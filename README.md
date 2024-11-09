@@ -1,4 +1,5 @@
 # 🕹 Desafio Escrevendo as Classes de Um Jogo
+#### Desafio GFT Start #6 - Lógica de Programação em Parceria com DIO
 Este projeto implementa uma classe genérica que representa heróis de um jogo de aventura, cada um com características únicas e ataques específicos baseados no seu tipo. Este exercício busca aplicar conceitos de orientação a objetos, como classes e métodos, além de estruturas básicas como variáveis, operadores, e decisões condicionais.
 
 ## 📋 Funcionalidades
